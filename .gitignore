@@ -1,4 +1,1 @@
-*.dp
-*.log
-/target
-/bin
+add some content to gitignore
